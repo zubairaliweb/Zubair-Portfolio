@@ -232,9 +232,7 @@ Add a screenshot of the portfolio here after placing the image in the repository
 
 ## 🌐 Live Demo
 
-🚀 **Live Portfolio:** [YOUR_LIVE_PORTFOLIO_URL](YOUR_LIVE_PORTFOLIO_URL)
-
-> Replace `YOUR_LIVE_PORTFOLIO_URL` with your deployed portfolio URL.
+🚀 **Live Portfolio:** [https://zubair-portfolio-5u1o.vercel.app/]
 
 ---
 
